@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "13719926534",
+    "firebase_url": "https://seminardamdam-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "seminardamdam",
+    "storage_bucket": "seminardamdam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13719926534:android:166ca1f1f1d7280dc3d087",
+        "android_client_info": {
+          "package_name": "com.example.seminar4_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSYojKb91kauQ948E8jGT75NslDz4ycY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
